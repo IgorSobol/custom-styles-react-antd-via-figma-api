@@ -17,17 +17,17 @@ module.exports = {
         lessLoaderOptions: {
           lessOptions: {
             modifyVars: {
-              "@blue-base": `${data.Colors.Primary[6].value}`,
-              "@blue-1": `${data.Colors.Primary[1].value}`,
-              "@blue-2": `${data.Colors.Primary[2].value}`,
-              "@blue-3": `${data.Colors.Primary[3].value}`,
-              "@blue-4": `${data.Colors.Primary[4].value}`,
-              "@blue-5": `${data.Colors.Primary[5].value}`,
-              "@blue-6": `${data.Colors.Primary[6].value}`,
-              "@blue-7": `${data.Colors.Primary[7].value}`,
-              "@blue-8": `${data.Colors.Primary[8].value}`,
-              "@blue-9": `${data.Colors.Primary[9].value}`,
-              "@blue-10": `${data.Colors.Primary[10].value}`,
+              "@blue-base": `${data.global.Primary[6].value}`,
+              "@blue-1": `${data.global.Primary[1].value}`,
+              "@blue-2": `${data.global.Primary[2].value}`,
+              "@blue-3": `${data.global.Primary[3].value}`,
+              "@blue-4": `${data.global.Primary[4].value}`,
+              "@blue-5": `${data.global.Primary[5].value}`,
+              "@blue-6": `${data.global.Primary[6].value}`,
+              "@blue-7": `${data.global.Primary[7].value}`,
+              "@blue-8": `${data.global.Primary[8].value}`,
+              "@blue-9": `${data.global.Primary[9].value}`,
+              "@blue-10": `${data.global.Primary[10].value}`,
               // Button
               "@btn-font-weight": "400",
               "@btn-border-radius-base": "@border-radius-base",
