@@ -27,8 +27,6 @@ and after you need
 ```
 yarn install
 ```
-[Article](https://stackoverflow.com/questions/65280848/yarn-build-babel-loader-issues-with-storybook)
-
 
 ### Start react project
 
@@ -40,3 +38,7 @@ yarn start
 ```
 yarn storybook
 ```
+
+Problems you may face
+
+* [Article](https://stackoverflow.com/questions/65280848/yarn-build-babel-loader-issues-with-storybook)
