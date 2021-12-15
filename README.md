@@ -5,12 +5,12 @@ The project was created as an example of how you can customize the ANT library. 
 
 ### Tools:
 * [React](https://reactjs.org/)
-* [AntDesign](https://ant.design/)
+* [Ant Design](https://ant.design/)
 * [Storybook](https://storybook.js.org/)
-* [craco](https://www.npmjs.com/package/@craco/craco)
-* [craco-less](https://www.npmjs.com/package/craco-less)
+* [Craco](https://www.npmjs.com/package/@craco/craco)
+* [Craco Less](https://www.npmjs.com/package/craco-less)
 * [Figma Tokens](https://www.figma.com/community/plugin/843461159747178978/Figma-Tokens)
-* [figma API](https://www.figma.com/developers/api)
+* [Figma API](https://www.figma.com/developers/api)
 
 ### Possible problems
 1) `babel-loader `- "There might be a problem with the project dependency tree.
